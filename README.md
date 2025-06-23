@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- ⚡ Fun fact: I hate ni-
 
 <!--
 **edu426/edu426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
